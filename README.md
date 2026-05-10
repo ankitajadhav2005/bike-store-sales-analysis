@@ -52,3 +52,30 @@ This project analyzes the sales performance of three bike stores using SQL and P
 - Project Report (.txt)
 - Dataset
 - Dashboard Screenshots
+
+## Project Structure
+
+bike-store-sales-analysis/
+│
+├── dashboard/
+│   └── bike_store_sales_analysis.pbix
+│
+├── data/
+│   └── bike_store_raw_data.xlsx
+│
+├── report/
+│   └── bike_store_analysis_report.docx
+│
+└── images/
+    ├── overview_dashboard.png
+    ├── rowlett_analysis.png
+    ├── sales_customer_insights.png
+    └── recommendations.png
+
+    ## Project Files
+
+- [Download Power BI Dashboard](dashboard/bike_store_sales_analysis.pbix)
+
+- [Download Raw Dataset](data/bike_store_raw_data.xlsx)
+
+- [Download Project Report](report/bike_store_analysis_report.docx)
