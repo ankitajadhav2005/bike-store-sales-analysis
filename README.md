@@ -3,7 +3,10 @@ Excel and Power BI project analyzing bike store sales performance across multipl
 # Bike Store Sales Performance Analysis
 
 ## Project Overview
-This project analyzes the sales performance of three bike stores using SQL and Power BI. The analysis focuses on identifying trends, comparing store performance, and understanding possible reasons behind the underperformance of Rowlett Bikes.
+# Bike Store Sales Analysis
+
+This project analyzes sales performance of three bike stores using Excel and Power BI.  
+The analysis focuses on identifying underperforming stores, sales trends, customer behavior, and business recommendations based on revenue, orders, and product categories.
 
 ---
 
@@ -84,10 +87,7 @@ bike-store-sales-analysis/
 └── README.md
 ```
 
-    ## Project Files
+## Project Files
 
-- [Download Power BI Dashboard](dashboard/Bike dataset dashboard.pbix)
-
-- [Download Raw Dataset](data/bike_store_raw_data.xlsx)
-
-- [Download Project Report](Bike Store Sales Performance Analysis.pdf)
+- [Download Power BI Dashboard](dashboard/bike_store_sales_analysis.pbix)
+- [Download Project Report](report/bike_store_analysis_report.docx)
