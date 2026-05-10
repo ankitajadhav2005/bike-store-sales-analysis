@@ -59,6 +59,9 @@ The analysis focuses on identifying underperforming stores, sales trends, custom
 ## Project Structure
 
 ```text
+## Project Structure
+
+```text
 bike-store-sales-analysis/
 │
 ├── dashboard/
@@ -75,6 +78,9 @@ bike-store-sales-analysis/
 │   ├── stocks.csv
 │   └── stores.csv
 │
+├── excel-analysis/
+│   └── bike_store_excel_analysis.xlsx
+│
 ├── images/
 │   ├── overview_dashboard.png
 │   ├── rowlett_analysis.png
@@ -87,7 +93,13 @@ bike-store-sales-analysis/
 └── README.md
 ```
 
+
 ## Project Files
 
 - [Download Power BI Dashboard](dashboard/bike_store_sales_analysis.pbix)
-- [Download Project Report](report/bike_store_analysis_report.docx)
+
+- [Download Excel Analysis Workbook](excel-analysis/bike_store_analysis.xlsx)
+
+- [Download Project Report](report/bike_store_analysis_report.pdf)
+
+- [View Raw Dataset Files](data/)
