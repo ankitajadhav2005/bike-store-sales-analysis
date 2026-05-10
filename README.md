@@ -26,16 +26,16 @@ This project analyzes the sales performance of three bike stores using SQL and P
 ## Dashboard Screenshots
 
 ### Overview Dashboard
-![Overview](images/overview_dashboard.png.png)
+![Overview](images/overview_dashboard.png)
 
 ### Rowlett Bikes Performance Analysis
-![Rowlett](images/rowlett_analysis.png.png)
+![Rowlett](images/rowlett_analysis.png)
 
 ### Sales & Customer Insights
-![Insights](images/sales_customer_insights.png.png)
+![Insights](images/sales_customer_insights.png)
 
 ### Recommendations Dashboard
-![Recommendations](images/recommendations.png.png)
+![Recommendations](images/recommendations.png)
 
 ---
 
