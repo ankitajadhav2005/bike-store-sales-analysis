@@ -74,8 +74,8 @@ bike-store-sales-analysis/
 
     ## Project Files
 
-- [Download Power BI Dashboard](dashboard/bike_store_sales_analysis.pbix)
+- [Download Power BI Dashboard](dashboard/Bike dataset dashboard.pbix)
 
 - [Download Raw Dataset](data/bike_store_raw_data.xlsx)
 
-- [Download Project Report](report/bike_store_analysis_report.docx)
+- [Download Project Report](Bike Store Sales Performance Analysis.pdf)
