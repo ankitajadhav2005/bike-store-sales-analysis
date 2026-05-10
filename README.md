@@ -55,22 +55,34 @@ This project analyzes the sales performance of three bike stores using SQL and P
 
 ## Project Structure
 
+```text
 bike-store-sales-analysis/
 │
 ├── dashboard/
 │   └── bike_store_sales_analysis.pbix
 │
 ├── data/
-│   └── bike_store_raw_data.xlsx
+│   ├── brands.csv
+│   ├── categories.csv
+│   ├── customers.csv
+│   ├── orders.csv
+│   ├── order_items.csv
+│   ├── products.csv
+│   ├── staffs.csv
+│   ├── stocks.csv
+│   └── stores.csv
+│
+├── images/
+│   ├── overview_dashboard.png
+│   ├── rowlett_analysis.png
+│   ├── sales_customer_insights.png
+│   └── recommendations.png
 │
 ├── report/
 │   └── bike_store_analysis_report.docx
 │
-└── images/
-    ├── overview_dashboard.png
-    ├── rowlett_analysis.png
-    ├── sales_customer_insights.png
-    └── recommendations.png
+└── README.md
+```
 
     ## Project Files
 
